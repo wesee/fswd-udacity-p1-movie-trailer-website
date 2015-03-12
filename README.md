@@ -1,6 +1,11 @@
-This is the README file for P1: Movie Trailer Website
+# Udacity P1: Movie Trailer Website
 
-### How to run the application ###
+## Table of contents
+
+- [How to run the app](#how-to-run-the-app)
+
+
+## How to run the app
 1. Install Python
 2. Run the IDLE (Python's Integrated Development Environment)
 3. Open the python file called movie_center.python
